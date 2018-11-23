@@ -20,6 +20,7 @@
         </activity>
         <activity android:name=".DavidActivity" />
         <activity android:name=".TomActivity"></activity>
+        <activity android:name=".AndreasActivity"></activity>
     </application>
 
 </manifest>
